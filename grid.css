@@ -46,3 +46,26 @@ div.container {
     grid-area: footer;
     background-color: peachpuff;
 }
+
+@media (max-width: 500px) {
+    div.container {
+        grid-template-areas:
+      "header"
+      "nav"
+      "content"
+      "side"
+      "footer";
+
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr
+							1fr
+							1fr
+							auto
+							auto;
+
+
+    }
+    .aside,.nav {
+        margin: 0;
+    }
+}

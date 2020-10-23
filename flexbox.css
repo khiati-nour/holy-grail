@@ -54,3 +54,11 @@ body {
     background-color: plum;
     margin: 2px;
 }
+
+@media (max-width: 500px) {
+    div.content {
+        flex-direction: column;}
+
+    }
+
+

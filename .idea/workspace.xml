@@ -32,6 +32,12 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\koko\PhpstormProjects\holy-grail" />
+      <recent name="C:\Users\koko\PhpstormProjects\holy-grail\holy-grail" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -40,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603353381724</updated>
-      <workItem from="1603353382784" duration="21474000" />
+      <workItem from="1603353382784" duration="28003000" />
     </task>
     <servers />
   </component>
