@@ -1,0 +1,73 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: italic, fantasy;
+    text-align: center;
+}
+
+
+
+
+
+
+
+.header {
+    height: 15vh;
+    background-color: darkorange;
+    width: 100%;
+    margin: 2px;
+
+
+
+}
+.main, .nav,.aside{
+
+    height: calc(100vh - 30vh - 12px);
+
+}
+.nav {
+    float: left;
+
+    background-color: plum;
+    width: 20%;
+    margin: 2px;
+
+
+
+}
+.main {
+    float:left;
+    background-color: purple;
+    width: calc(100% - 40% - 12px);
+    margin: 2px;
+
+
+}
+
+.aside{
+
+    float: right;
+
+    background-color: deeppink;
+    width: 20%;
+    margin: 2px;
+
+
+}
+
+.footer{
+
+    float: left;
+    height: 15vh;
+    background-color: pink;
+    width: 100%;
+    margin: 2px;
+
+}
+
+
+
+
+
+
